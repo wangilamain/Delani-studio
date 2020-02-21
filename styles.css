@@ -2,6 +2,7 @@ body{
   text-align: center;
 }
 .first-section{
+  text-align: center;
   background-image: url(./images/h_img.jpg);
   padding: 0;
   margin: 0;
@@ -11,6 +12,7 @@ body{
   float: none;
 }
 .second-section{
+  text-align: center;
   padding: 0;
   margin: 0;
   width: 100%;
@@ -19,6 +21,7 @@ body{
   float: none;
 }
 .third-section{
+  text-align: center;
   background-image: url(./images/s_image.jpg);
   padding:0;
   margin:0;
@@ -26,5 +29,10 @@ body{
   height:100%;
   align-items: center;
   float: none;
+
+}
+.forth-section{
+  margin-left:
+
 
 }
