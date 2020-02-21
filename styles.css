@@ -1,3 +1,6 @@
 body{
   text-align: center;
 }
+.first section{
+  background-image: url(images/h_img.jpg);
+}
