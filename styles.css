@@ -1,6 +1,30 @@
 body{
   text-align: center;
 }
-.first section{
-  background-image: url(images/h_img.jpg);
+.first-section{
+  background-image: url(./images/h_img.jpg);
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  float: none;
+}
+.second-section{
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  float: none;
+}
+.third-section{
+  background-image: url(./images/s_image.jpg);
+  padding:0;
+  margin:0;
+  width:100%;
+  height:100%;
+  align-items: center;
+  float: none;
+
 }
