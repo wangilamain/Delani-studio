@@ -7,8 +7,6 @@ body{
   margin: 0;
   width: 100%;
   height: 100%;
-  align-items: center;
-  float: none;
 }
 .second-section{
   text-align: center;
@@ -48,7 +46,16 @@ h3{
 .sixth-section{
   background-image: url(./images/c_image.jpg);
   column-fill: balance;
+  background-color input: transparent;
 }
 .seventh-section{
   text-align: center;
+}
+.form-control{
+  background:transparent;
+}
+.form-control::placeholder{
+  color: white;
+  opacity: 1;
+
 }
