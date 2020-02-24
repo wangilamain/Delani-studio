@@ -46,7 +46,7 @@ h3{
 .sixth-section{
   background-image: url(./images/c_image.jpg);
   column-fill: balance;
-  background-color input: transparent;
+
 }
 .seventh-section{
   text-align: center;
@@ -58,4 +58,7 @@ h3{
   color: white;
   opacity: 1;
 
+}
+.sixth-section input{
+  background-color: transparent;
 }
