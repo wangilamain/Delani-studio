@@ -1,43 +1,35 @@
 body{
   text-align: center;
+  margin: 0;
+  padding: 0;
 }
 .first-section{
-  text-align: center;
   background-image: url(./images/h_img.jpg);
-  margin: 0;
-  width: 100%;
-  height: 100%;
+  text-align: center;
+  color: white;
+  padding-bottom: 100px;
+  padding-top: 100px;
 }
 .second-section{
   text-align: center;
-  padding: 0;
-  margin: 0;
-  width: 100%;
-  height: 100%;
   align-items: center;
-  float: none;
+  margin-top: 50px;
 }
 .third-section{
   text-align: center;
   background-image: url(./images/s_image.jpg);
-padding-bottom: 20%;
-  margin-left: 20px;
-  margin-right: 20px;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  width:100%;
-  height:100%;
-  align-items: center;
-  float: none
+  padding-top: 100px;
+  padding-bottom: 100px;
+  color: white;
+  margin-top: 30px;
 
 }
 .forth-section{
-  margin-left:
+  padding-top: 50px;
+  padding-bottom: 100px;
 }
 .fifth-section{
   text-align: center;
-  margin: 0;
-  padding: 0;
 
 }
 h3{
@@ -47,11 +39,14 @@ h3{
   background-image: url(./images/c_image.jpg);
   column-fill: balance;
   text-align: center;
-
+  margin-top: 50px;
+  padding-bottom: 100px;
 }
 .seventh-section{
+  padding-top: 30px;
   text-align: center;
 }
+
 .form-control{
   background:transparent;
 }
@@ -65,4 +60,11 @@ h3{
 }
 .sixth-section textarea{
   background-color: transparent;
+}
+#overlay1{
+  background-color: grey;
+}
+
+.development-practice, .management-practice, .design-practice {
+  display: none;
 }

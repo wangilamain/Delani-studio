@@ -1,0 +1,14 @@
+$(document).ready(function(){
+  $(".design").click(function(){
+    $(".first-image").toggle();
+    $(".design-practice").toggle();
+  });
+  $(".development").click(function(){
+    $(".second-image").toggle();
+    $(".development-practice").toggle();
+  });
+  $(".product-management").click(function(){
+    $(".third-image").toggle();
+    $(".management-practice").toggle();
+  });
+})
