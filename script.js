@@ -21,3 +21,67 @@ function myFunction(){
     }
      else alert( name + " ,thank you for your message");
   }
+  $(document).ready(function(){
+    $("#work1").mouseover(function(){
+        $(".work1").fadeIn("slow");
+        $(".work1").show();
+    }).mouseout(function(){
+      $(".work1").hide();
+    });
+});
+$(document).ready(function(){
+    $("#work2").mouseover(function(){
+        $(".work2").fadeIn("slow");
+        $(".work2").show();
+    }).mouseout(function(){
+      $(".work2").hide();
+    });
+});
+$(document).ready(function(){
+    $("#work3").mouseover(function(){
+        $(".work3").fadeIn("slow");
+        $(".work3").show();
+    }).mouseout(function(){
+      $(".work3").hide();
+    });
+});
+$(document).ready(function(){
+    $("#work4").mouseover(function(){
+        $(".work4").fadeIn("slow");
+        $(".work4").show();
+    }).mouseout(function(){
+      $(".work4").hide();
+    });
+});
+$(document).ready(function(){
+    $("#work5").mouseover(function(){
+        $(".work5").fadeIn("slow");
+        $(".work5").show();
+    }).mouseout(function(){
+      $(".work5").hide();
+    });
+});
+$(document).ready(function(){
+    $("#work6").mouseover(function(){
+        $(".work6").fadeIn("slow");
+        $(".work6").show();
+    }).mouseout(function(){
+      $(".work6").hide();
+    });
+});
+$(document).ready(function(){
+    $("#work7").mouseover(function(){
+        $(".work7").fadeIn("slow");
+        $(".work7").show();
+    }).mouseout(function(){
+      $(".work7").hide();
+    });
+});
+$(document).ready(function(){
+    $("#work8").mouseover(function(){
+        $(".work8").fadeIn("slow");
+        $(".work8").show();
+    }).mouseout(function(){
+      $(".work8").hide();
+    });
+});
