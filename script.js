@@ -24,64 +24,64 @@ function myFunction(){
   $(document).ready(function(){
     $("#work1").mouseover(function(){
         $(".work1").fadeIn("slow");
-        $(".work1").show();
+        $(".work1").show(3000);
     }).mouseout(function(){
-      $(".work1").hide();
+      $(".work1").hide(3000);
     });
 });
 $(document).ready(function(){
     $("#work2").mouseover(function(){
         $(".work2").fadeIn("slow");
-        $(".work2").show();
+        $(".work2").show(3000);
     }).mouseout(function(){
-      $(".work2").hide();
+      $(".work2").hide(3000);
     });
 });
 $(document).ready(function(){
     $("#work3").mouseover(function(){
         $(".work3").fadeIn("slow");
-        $(".work3").show();
+        $(".work3").show(3000);
     }).mouseout(function(){
-      $(".work3").hide();
+      $(".work3").hide(3000);
     });
 });
 $(document).ready(function(){
     $("#work4").mouseover(function(){
         $(".work4").fadeIn("slow");
-        $(".work4").show();
+        $(".work4").show(300);
     }).mouseout(function(){
-      $(".work4").hide();
+      $(".work4").hide(3000);
     });
 });
 $(document).ready(function(){
     $("#work5").mouseover(function(){
         $(".work5").fadeIn("slow");
-        $(".work5").show();
+        $(".work5").show(3000);
     }).mouseout(function(){
-      $(".work5").hide();
+      $(".work5").hide(3000);
     });
 });
 $(document).ready(function(){
     $("#work6").mouseover(function(){
         $(".work6").fadeIn("slow");
-        $(".work6").show();
+        $(".work6").show(3000);
     }).mouseout(function(){
-      $(".work6").hide();
+      $(".work6").hide(3000);
     });
 });
 $(document).ready(function(){
     $("#work7").mouseover(function(){
         $(".work7").fadeIn("slow");
-        $(".work7").show();
+        $(".work7").show(3000);
     }).mouseout(function(){
-      $(".work7").hide();
+      $(".work7").hide(3000);
     });
 });
 $(document).ready(function(){
     $("#work8").mouseover(function(){
         $(".work8").fadeIn("slow");
-        $(".work8").show();
+        $(".work8").show(3000);
     }).mouseout(function(){
-      $(".work8").hide();
+      $(".work8").hide(3000);
     });
 });
